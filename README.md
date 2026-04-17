@@ -1,5 +1,5 @@
-📊 Análisis de Viajes en Taxi – Chicago
-🧠 Descripción
+📊 *Análisis de Viajes en Taxi – Chicago*
+🧠 *Descripción*
 
 Este proyecto analiza datos de viajes en taxi en la ciudad de Chicago para identificar patrones de demanda, concentración del mercado y el impacto del clima en la duración de los viajes.
 
